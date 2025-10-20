@@ -1,6 +1,6 @@
 {
   "name": "cookies-next",
-  "version": "6.1.0",
+  "version": "6.1.1",
   "description": "Set, Get, Remove cookies on both client and server side with Next.js",
   "main": "./lib/index.js",
   "exports": {
@@ -20,7 +20,7 @@
     }
   },
   "scripts": {
-    "build": "tsc",
+    "build": "node api.js && tsc",
     "pretty": "npx prettier . --write",
     "test": "jest"
   },
