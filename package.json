@@ -35,15 +35,15 @@
   },
   "homepage": "https://github.com/andreizanik/cookies-next#readme",
   "dependencies": {
-    "cookie": "^0.6.0",
+    "cookie": "^0.7.2",
     "@types/cookie": "^0.6.0"
   },
   "peerDependencies": {
     "next": "^14.2.4"
   },
   "devDependencies": {
-    "@types/node": "^20.14.2",
-    "prettier": "^3.3.2",
-    "typescript": "^5.4.5"
+    "@types/node": "^20.19.25",
+    "prettier": "^3.6.2",
+    "typescript": "^5.9.3"
   }
 }
