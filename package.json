@@ -42,7 +42,7 @@
     "next": "^14.2.4"
   },
   "devDependencies": {
-    "@types/node": "^20.19.26",
+    "@types/node": "^20.19.27",
     "prettier": "^3.7.4",
     "typescript": "^5.9.3"
   }
