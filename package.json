@@ -20,7 +20,7 @@
     }
   },
   "scripts": {
-    "build": "node api.js && tsc",
+    "build": "tsc",
     "pretty": "npx prettier . --write",
     "test": "jest"
   },
